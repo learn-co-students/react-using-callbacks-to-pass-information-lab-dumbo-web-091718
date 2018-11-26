@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "get-pixels": "^3.3.0",
+    "learn-browser": "^0.1.17",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
